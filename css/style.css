@@ -1,0 +1,22 @@
+#footer{
+background-color: #333; 
+color: white;
+margin-top:10px;
+}
+
+#mce-EMAIL, #mc-embedded-subscribe{
+	height: 75px;
+	font-size: 20px;
+}
+
+#jumbotron-landing {
+	background-color: #745234;
+	background-image: url('../images/background.png'); 
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+
+#titulo-modal{
+	color: black;
+}
